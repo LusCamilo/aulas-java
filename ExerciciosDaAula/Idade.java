@@ -9,10 +9,6 @@ class Idade{
         if (idade > 17){
 
            System.out.println("\noloko vc e maior de idade\n");
-
-        }
-        else if (10 > idade > 70 ){
-            System.out.println("ata que vc tem essa idade");
         }
         else {
             System.out.println("\n o cara e de menor kkkkkkkkkkkkkkkkkkj\n");  
