@@ -1,7 +1,10 @@
 import java.util.Scanner;
+import java.util.Timer;
+import java.util.TimerTask;
 
 class TestGame{
     public static void main(String args[]){
+        Timer timer;
         Scanner ler = new Scanner(System.in);
         for(int i = 3; i >= 0 ; i--){
             System.out.println("\ncapital do equador");
